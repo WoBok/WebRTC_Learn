@@ -10,4 +10,6 @@
 [参考视频二](https://www.bilibili.com/video/BV1NG4y1s77c/?spm_id_from=333.337.search-card.all.click&vd_source=e41e557c965196efc71b2d5de8ad6f36)
 
 ## STUN
+1. **媒体协商**  
 SDP(Session Description Protocol)：Peer双方需要交换SDP信息，双方才可互相了解，也称为 **“媒体协商”**。 e.g. 视频通信的双方互相知道可支持的视频解码方式。
+2. **网络协商**  
