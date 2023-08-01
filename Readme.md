@@ -23,4 +23,4 @@ SDP(Session Description Protocol)：Peer双方需要交换SDP信息，双方才�
 - SDP、Candidate的交换  
 - 房间管理及其人员进出  
 ## 一对一通信图解
-![通信原理](通信原理.png)
+![通信原理](/通信原理.png)
