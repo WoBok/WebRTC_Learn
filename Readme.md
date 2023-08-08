@@ -24,3 +24,5 @@ SDP(Session Description Protocol)：Peer双方需要交换SDP信息，双方才�
 - 房间管理及其人员进出  
 ## 一对一通信图解
 ![通信原理](/通信原理.png)
+
+<button onclick="window.location.href = 'https://www.baidu.com/'">百度</button>
