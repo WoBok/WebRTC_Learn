@@ -26,3 +26,4 @@ SDP(Session Description Protocol)：Peer双方需要交换SDP信息，双方才�
 ![通信原理](/通信原理.png)
 
 <button onclick="window.location.href = 'https://www.baidu.com/'">百度</button>
+<button type="button">点我!</button>
