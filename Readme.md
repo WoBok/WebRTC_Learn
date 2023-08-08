@@ -24,7 +24,4 @@ SDP(Session Description Protocol)：Peer双方需要交换SDP信息，双方才�
 - 房间管理及其人员进出  
 ## 一对一通信图解
 ![通信原理](/通信原理.png)
-<font color=#2a3d4f>实现字体颜色为红色</font>
-n<sup>2</sup> + 2n + 1 = 0
-
-H<sub>2</sub>O
+<kbd>Ctrl</kbd>
