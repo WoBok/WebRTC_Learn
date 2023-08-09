@@ -24,5 +24,4 @@ SDP(Session Description Protocol)：Peer双方需要交换SDP信息，双方才�
 - 房间管理及其人员进出  
 ## 一对一通信图解
 ![通信原理](/通信原理.png)
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$  $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
